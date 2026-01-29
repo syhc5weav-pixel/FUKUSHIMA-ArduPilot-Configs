@@ -27,6 +27,6 @@ High-performance flight controller with 6-layer PCB design.
 
 ### FUKUSHIMA_F7 (STM32F722)
 Optimized for industrial and agricultural UAV applications.
-![FUKUSHIMA_F722 Board](F722_FC_board.jpg.png)
+![FUKUSHIMA_F722 Board](F722_board.jpg.png)
 
 Developed by **FUKUSHIMA-UAV** | Custom UAV Solutions
