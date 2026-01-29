@@ -24,9 +24,9 @@ syhc5weav@gmail.com
 High-performance flight controller with 6-layer PCB design.
 ![FUKUSHIMA_H743 Board](スクリーンショット%202026-01-26%20211740.png)
 
-### FUKUSHIMA_F7 (STM32F722)
-Optimized for industrial and agricultural UAV applications.
-![FUKUSHIMA_F722 Board](スクリーンショット%202026-01-26%20182146.png)
 
+### FUKUSHIMA_F7 (STM32F722)
+Optimized for industrial and agricultural UAV applications. [cite: 2026-01-27]
+![FUKUSHIMA_F722 Board](スクリーンショット%202026-01-27%20111120.png)
 ---
 Developed by **FUKUSHIMA-UAV** | Custom UAV Solutions
